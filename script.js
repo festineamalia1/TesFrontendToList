@@ -107,13 +107,8 @@ function todoRender() {
       todoRender();
     }
 
-    function toggleModeAction() {
-      document.documentElement.classList.toggle('dark');
-    }
-
     addTodo.addEventListener('click', submitTodo);
     todoList.addEventListener('click', todoAction);
-    toggleMode.addEventListener('click', toggleModeAction);
 
     btnFilter.forEach(btn => {
             btn.addEventListener('click', () => {
