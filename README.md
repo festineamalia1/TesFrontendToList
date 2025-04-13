@@ -6,5 +6,5 @@
   file terdiri dari 2 file, index.html sebagai file html
   dan script.js sebagai file js
 
-  untuk tampilan ui menggunakan bootstrap dan tailwind
+  untuk tampilan ui menggunakan tailwind
 
